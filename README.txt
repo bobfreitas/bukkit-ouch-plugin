@@ -2,4 +2,4 @@ This is a simple CraftBukkit plugin to help you get familiar with creating a Buk
 
 All it does is to say "Ouch" when you break a block.
 
-It uses CraftBukkit 1.3.  The project was created with Eclipse and it uses Maven.  
+It uses CraftBukkit 1.5.2-R1.0.  The project was created with Eclipse and it uses Maven.  
